@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="http://servar.uiwhatsapp.com/Themes/Xmls/" walls="http://servar.uiwhatsapp.com/Themes/well/" scs="http://servar.uiwhatsapp.com/Themes/screen/"/>
+<data xmls="https://themes.uiwhatsapp.com/Xml/" walls="https://themes.uiwhatsapp.com/well/" scs="https://themes.uiwhatsapp.com/screen/"/>
 
 <theme>
 <title>UiThemes</title>
