@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://themes.uiwhatsapp.com/Xml/" walls="https://themes.uiwhatsapp.com/well/" scs="https://themes.uiwhatsapp.com/screen/"/>
+<data xmls="https://themes.uiwhatsapp.com/xml/" walls="https://themes.uiwhatsapp.com/well/" scs="https://themes.uiwhatsapp.com/screen/"/>
 
 <theme>
-<title>Darkstock</title>
+<title>Dark_stock</title>
 <date>Elsayed Khater</date>
 </theme>
 
@@ -14,12 +14,12 @@
 </theme>
 
 <theme>
-<title>OneUiyellow</title>
+<title>OneUi_yellow</title>
 <date>Elsayed Khater</date>
 </theme>
 
 <theme>
-<title>DarkPink</title>
+<title>Dark_Pink</title>
 <date>Elsayed Khater</date>
 </theme>
   
