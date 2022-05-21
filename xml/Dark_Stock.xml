@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_archived_header" value="true" />
+    <string name="key_layout_home">wastock</string>
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="ModFabNormalColor_check" value="true" />
+    <boolean name="key_search_elevation" value="false" />
+    <int name="key_search_border" value="815701662" />
+    <string name="key_fab_view">view</string>
+    <int name="key_badge_background" value="-14668749" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModFabNormalColor" value="-16744343" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="key_fab_icon" value="-1" />
+    <string name="key_drawer_style"></string>
+    <int name="key_fastscroll_round" value="20" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="key_fast_scroll" value="true" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="ModConPickColor" value="-14668749" />
+    <boolean name="key_custom_badge" value="true" />
+    <string name="ui_home_styleV3">stock</string>
+    <boolean name="key_custom_icon" value="false" />
+    <string name="key_story_view">0</string>
+    <boolean name="yo_want_airplanemode" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="enable_grp_separationV2" value="false" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <int name="list_bg_color" value="-328966" />
+    <int name="key_fab_rounded" value="28" />
+    <boolean name="my_name" value="false" />
+    <int name="key_search_textcolor" value="815701662" />
+    <int name="ModConBackColor" value="-328966" />
+    <int name="key_search_rounded" value="23" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_search_stroke" value="1" />
+    <boolean name="key_fab_elevation" value="true" />
+    <boolean name="key_drawer_mods" value="false" />
+    <int name="key_fab_border" value="-328966" />
+    <int name="key_badge_textcolor" value="-1" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <string name="key_archive_style">card_stock</string>
+    <int name="key_fab_color" value="-14668749" />
+    <string name="key_custom_title"></string>
+    <boolean name="key_drawer_settings" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="key_search_bg" value="-1" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="key_hide_search" value="false" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="key_fab_rounded_menu" value="28" />
+    <int name="key_accent_color" value="-14668749" />
+    <boolean name="AttBt" value="false" />
+    <int name="main_text" value="17" />
+    <int name="text_size_pick" value="16" />
+</map>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
 <data xmls="https://themes.uiwhatsapp.com/xml/" walls="https://themes.uiwhatsapp.com/well/" scs="https://themes.uiwhatsapp.com/screen/"/>
+<theme>
+<title>Stock</title>
+<date>BY Elsayed Khater</date>
+</theme>
+<theme>
+<title>Dark_Stock</title>
+<date>BY Elsayed Khater</date>
+</theme>
   <theme>
 <title>ios_light</title>
 <date>BY Elsayed Khater</date>
@@ -27,6 +35,11 @@
 </theme>
 <theme>
 <title>Green</title>
+<date>BY Elsayed Khater</date>
+</theme>
+
+<theme>
+<title>Neon</title>
 <date>BY Elsayed Khater</date>
 </theme>
 </themes>

@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_decrypt_info" value="true" />
+    <int name="ModChaSendBKColor" value="-16744343" />
+    <int name="key_avatar_border_size" value="0" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="ModFabNormalColor_check" value="true" />
+    <boolean name="key_toast_profile" value="true" />
+    <boolean name="imsHideVStatus" value="false" />
+    <int name="key_toast_status_bg" value="-13914325" />
+    <boolean name="key_toast_online_textcolor_check" value="true" />
+    <boolean name="date_bubble_color_picker_Gactive" value="false" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <int name="key_toast_profile_bg_GOrient" value="3" />
+    <int name="key_toast_online_bg_GOrient" value="3" />
+    <boolean name="key_toolbar_elevation" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <int name="key_waveview_height" value="100" />
+    <boolean name="key_quick_textcolor_check" value="true" />
+    <int name="key_fab_color_GC" value="-16734076" />
+    <string name="key_toast_duration">0</string>
+    <int name="key_outgoing_corner" value="12" />
+    <int name="key_cover_height" value="66" />
+    <boolean name="onlinechat" value="false" />
+    <int name="key_drawer_bg" value="-285212673" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <string name="ui_home_styleV3">stock</string>
+    <boolean name="key_floating_chat" value="false" />
+    <int name="key_card_title" value="-1" />
+    <int name="key_homecard_elevations" value="0" />
+    <int name="HomeCounterBK" value="-16734076" />
+    <int name="ModHomeMentionIconColor" value="-16744343" />
+    <int name="key_wave_velocity" value="100" />
+    <boolean name="enable_grp_separationV2" value="false" />
+    <int name="quoted_divider_picker" value="0" />
+    <boolean name="chat_contactpicV2" value="true" />
+    <int name="key_navigationbar_picker" value="-16744343" />
+    <boolean name="key_wallpaper_view" value="false" />
+    <int name="key_curvature_height" value="22" />
+    <int name="list_bg_color" value="-328966" />
+    <int name="key_stories_name" value="-1" />
+    <boolean name="group_mypicV2" value="false" />
+    <int name="ModConBackColor" value="-1" />
+    <boolean name="key_avatar_view" value="true" />
+    <int name="key_toast_profile_bg_GC" value="-16294316" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="key_toast_online_bg_check" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="key_badge_background_check" value="true" />
+    <int name="key_bubble_stroke_color" value="-328966" />
+    <string name="key_ig_view">stories</string>
+    <boolean name="pref_row_size_check" value="false" />
+    <boolean name="key_unseen_color_check" value="true" />
+    <string name="key_custom_title"></string>
+    <boolean name="pagetitle_picker_check" value="true" />
+    <boolean name="key_hide_thumbnail" value="false" />
+    <boolean name="onlineDotchat" value="false" />
+    <int name="key_toast_online_bg_GC" value="-16294316" />
+    <boolean name="key_hide_search" value="false" />
+    <int name="ModlastseenColor" value="-14273992" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="key_toast_rounded" value="23" />
+    <boolean name="key_nested_scroll" value="true" />
+    <int name="ModDarkConPickColorNav" value="-16744343" />
+    <int name="ModConColor_GOrient" value="4" />
+    <int name="BGColor" value="-1" />
+    <int name="key_gradient_ring_GOrient" value="0" />
+    <string name="HISTORY">[-403705873,-263173,-12105903,-2614432,-436536582,-69940,0,-14606047,-285212673,-328966,-1118482,-2823435,-16294316,-1,-288036107,-4210753,-16734076,-657931,-13914325,-16744343]</string>
+    <boolean name="statuschat" value="true" />
+    <boolean name="key_ig_thumbnail" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <int name="key_wave_angel" value="45" />
+    <int name="ModChatEmojiColor" value="-14606047" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <boolean name="key_drawer_menu" value="false" />
+    <int name="ModChaSendColor" value="-1" />
+    <int name="pagetitle_sel_picker" value="-1" />
+    <int name="key_counter_bg" value="-16744343" />
+    <int name="tabadgeBKColor" value="-2287331" />
+    <boolean name="key_tab_divider" value="false" />
+    <boolean name="admin_check" value="true" />
+    <boolean name="key_quick_bg_check" value="true" />
+    <boolean name="key_home_swipe" value="false" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="home_imgBK" value="false" />
+    <boolean name="key_drawer_bg_Gactive" value="false" />
+    <int name="key_quick_textcolor" value="-1" />
+    <int name="key_fastscroll_round" value="20" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="HomeBarText_check" value="true" />
+    <string name="delight_app_theme">1</string>
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="key_row_radius" value="12" />
+    <boolean name="key_kenburn_cover" value="true" />
+    <int name="key_fab_stroke" value="0" />
+    <int name="tabadgeTextColor" value="-1" />
+    <string name="ConvoEntry">7</string>
+    <boolean name="key_wave_tab" value="false" />
+    <int name="ModConColor" value="-16744343" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="key_toast_status_textcolor_check" value="true" />
+    <int name="key_gradient_ring_GC" value="-2614432" />
+    <boolean name="key_custom_icon" value="false" />
+    <boolean name="HomeCounterBK_check" value="true" />
+    <string name="key_navigation_tabview">0</string>
+    <string name="tick_style">yousef</string>
+    <boolean name="key_large_bitmap" value="false" />
+    <int name="ModConPickColor_GC" value="-16734076" />
+    <boolean name="hide_fab" value="true" />
+    <int name="tabindicator" value="-1" />
+    <boolean name="ModDarkConPickColor_check" value="true" />
+    <boolean name="HomeCounterText_check" value="true" />
+    <boolean name="imsHideMStatus" value="false" />
+    <string name="ui_bottom_style">stock</string>
+    <int name="key_story_stroke" value="1" />
+    <boolean name="key_quick_view" value="false" />
+    <int name="key_bubble_stroke_size" value="0" />
+    <boolean name="my_name" value="false" />
+    <int name="key_search_textcolor" value="815701662" />
+    <boolean name="ModHomeMentionIndBackground_check" value="true" />
+    <string name="key_settings_list">14</string>
+    <int name="pagetitle_picker" value="-4210753" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="key_custom_theme" value="-328966" />
+    <boolean name="key_fab_color_Gactive" value="true" />
+    <int name="key_search_rounded" value="23" />
+    <boolean name="key_fab_color_check" value="true" />
+    <boolean name="key_toast_status_bg_Gactive" value="false" />
+    <string name="key_bottomtab_styles">v7</string>
+    <boolean name="key_hide_topscroll" value="true" />
+    <boolean name="key_mention_border_check" value="true" />
+    <boolean name="key_drawer_mods" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <string name="key_story_layout">9</string>
+    <boolean name="hide_action_b" value="false" />
+    <int name="key_fab_color" value="-16744343" />
+    <boolean name="key_toast_statuses" value="true" />
+    <boolean name="key_tab_text" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="key_gradient_ring_Gactive" value="true" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <int name="key_tab_rounded" value="0" />
+    <int name="key_avatar_size" value="52" />
+    <int name="main_text" value="15" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="key_fab_icon_check" value="false" />
+    <int name="key_mention_border" value="-16744343" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="14" />
+    <int name="key_trans_alpha" value="50" />
+    <string name="key_style_home">paralax_card_v2_fit</string>
+    <boolean name="key_online_ring" value="true" />
+    <string name="key_chat_animation">0</string>
+    <string name="key_layout_home">wastock</string>
+    <boolean name="ModDarkConPickColorNav_check" value="true" />
+    <boolean name="key_blur_ios_tab" value="true" />
+    <string name="key_quick_position">right</string>
+    <int name="key_search_border" value="815701662" />
+    <string name="key_entry_language">en</string>
+    <int name="key_toast_profile_bg" value="-13914325" />
+    <int name="key_gradient_ring" value="-601243" />
+    <boolean name="key_gradient_ring_check" value="true" />
+    <int name="key_incoming_bubble" value="-1" />
+    <int name="ModFabNormalColor" value="-16744343" />
+    <boolean name="hide_action_l" value="false" />
+    <int name="ModContactNameColor" value="-14606047" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <int name="key_row_size" value="68" />
+    <int name="key_grid_height" value="100" />
+    <int name="key_card_settings_bg" value="-1" />
+    <int name="UnSeenColor" value="-13914325" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <string name="key_drawer_style"></string>
+    <int name="key_card_round" value="8" />
+    <int name="emojipopup_body" value="-1" />
+    <int name="RingColor" value="-13914325" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="key_counter_bg_check" value="true" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <boolean name="key_toast_custom" value="true" />
+    <int name="ModChatRightBubble" value="-918296" />
+    <boolean name="key_toast_profile_textcolor_check" value="true" />
+    <boolean name="key_fast_scroll" value="true" />
+    <int name="key_unseen_color" value="-16744343" />
+    <string name="key_toast_profile_gravity">2</string>
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-328966" />
+    <boolean name="key_stories_padding_check" value="false" />
+    <boolean name="key_navigationbar_picker_check" value="true" />
+    <boolean name="yo_want_airplanemode" value="false" />
+    <int name="ModDarkConPickColor" value="-16744343" />
+    <int name="key_grid_span" value="3" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <int name="ModConTextColor" value="-16744343" />
+    <boolean name="chat_mypicV2" value="false" />
+    <int name="key_card_setting_catogory" value="-1" />
+    <boolean name="key_unread_border_check" value="true" />
+    <boolean name="key_with_thumb" value="false" />
+    <int name="ModConPickColor_GOrient" value="0" />
+    <boolean name="ModConBackColor_check" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="key_voice_note_v2" value="true" />
+    <boolean name="key_toast_online_bg_Gactive" value="false" />
+    <boolean name="key_gradient_bubble" value="false" />
+    <int name="key_badge_textcolor" value="-1" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <int name="key_row_elevation" value="0" />
+    <int name="key_subtitle_color" value="-4210753" />
+    <boolean name="key_as_thumbnail" value="true" />
+    <boolean name="key_drawer_settings" value="false" />
+    <boolean name="key_encrypt_chat" value="false" />
+    <string name="bubble_style">cvios</string>
+    <int name="key_search_bg" value="-1" />
+    <boolean name="key_badge_textcolor_check" value="true" />
+    <int name="ModChatBtnColor" value="-14606047" />
+    <int name="key_wave_height" value="17" />
+    <int name="key_statusbar_picker" value="-16744343" />
+    <int name="key_fab_rounded_menu" value="28" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <int name="key_accent_color" value="-16744343" />
+    <int name="key_stories_padding" value="72" />
+    <boolean name="tabindicator_check" value="true" />
+    <string name="key_quick_layout">v2</string>
+    <string name="pic_startlocation">1</string>
+    <boolean name="key_statusbar_picker_check" value="true" />
+    <boolean name="AttBt" value="false" />
+    <int name="key_toast_status_bg_GC" value="-16294316" />
+    <boolean name="key_toast_profile_bg_check" value="true" />
+    <boolean name="pic_inside" value="false" />
+    <boolean name="ModConColor_check" value="true" />
+    <boolean name="key_translucent_statusbar" value="false" />
+    <boolean name="key_toast_status_bg_check" value="true" />
+    <boolean name="key_story_badge" value="true" />
+    <string name="key_chats_listanimation">14</string>
+    <boolean name="key_archived_header" value="false" />
+    <int name="key_toast_profile_textcolor" value="-1" />
+    <int name="date_bubble_color_picker" value="-288036107" />
+    <boolean name="key_search_elevation" value="false" />
+    <int name="seekbar_color_chat_picker" value="-16744343" />
+    <string name="key_fab_view">view</string>
+    <int name="key_toast_status_bg_GOrient" value="3" />
+    <int name="statuses_bar_bg_picker" value="-1" />
+    <int name="emojipopup_header" value="-1" />
+    <boolean name="pagetitle_sel_picker_check" value="true" />
+    <boolean name="key_settings_layout" value="true" />
+    <int name="key_badge_background" value="-8065123" />
+    <int name="HomeBarText" value="-1" />
+    <int name="key_toast_online_textcolor" value="-1" />
+    <int name="key_typing_color" value="-13914325" />
+    <boolean name="imsHideRStatus" value="false" />
+    <int name="key_toast_status_textcolor" value="-1" />
+    <int name="key_fab_color_GOrient" value="0" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="key_fab_icon" value="-1" />
+    <int name="statuses_bar_text_picker" value="-14606047" />
+    <boolean name="tabadgeBKColor_check" value="true" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="key_graient_ring_anim" value="true" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="key_unread_border" value="-16734076" />
+    <int name="key_toast_online_bg" value="-13914325" />
+    <boolean name="key_toast_avatar" value="true" />
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="key_quick_bg" value="-16744343" />
+    <int name="key_border_stories_card" value="-2141101727" />
+    <int name="ModConPickColor" value="-16744343" />
+    <boolean name="key_wave_run" value="true" />
+    <boolean name="key_hide_tabscroll" value="false" />
+    <boolean name="key_custom_badge" value="false" />
+    <string name="key_story_view">0</string>
+    <int name="key_seen_color" value="-1" />
+    <boolean name="read_more" value="false" />
+    <int name="key_outgoing_bubble" value="-13914325" />
+    <int name="key_avatar_border" value="-13914325" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="key_fab_rounded" value="28" />
+    <int name="key_stories_card" value="-1" />
+    <string name="key_translation_method">dialog</string>
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <int name="key_row_background_color" value="-1" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="key_reply_dialog" value="true" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <string name="key_toast_online_gravity">2</string>
+    <boolean name="elapsed_time" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-16744343" />
+    <boolean name="key_fab_elevation" value="true" />
+    <int name="key_search_stroke" value="1" />
+    <boolean name="key_toast_profile_bg_Gactive" value="false" />
+    <int name="ModHomeMentionIndBackground" value="-657931" />
+    <int name="key_fab_border" value="-328966" />
+    <int name="participant_name_color_picker" value="-16734076" />
+    <string name="key_pager_animation">9</string>
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-263173" />
+    <string name="key_archive_style">card_stock</string>
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="key_cover_view" value="false" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <boolean name="key_navigation_padding" value="false" />
+    <boolean name="group_participants_picV2" value="true" />
+    <boolean name="participant_name_color_picker_Gactive" value="false" />
+    <boolean name="key_drawer_bg_check" value="true" />
+    <int name="key_incoming_corner" value="12" />
+    <string name="key_toast_status_gravity">2</string>
+    <boolean name="key_story_elevation" value="true" />
+    <string name="key_incoming_language">id</string>
+    <int name="key_border_convs_card" value="-2141101727" />
+    <boolean name="key_seen_color_check" value="true" />
+    <boolean name="key_grid_chatview" value="false" />
+    <boolean name="key_row_size_check" value="true" />
+    <boolean name="ModHomeMentionIconColor_check" value="true" />
+    <int name="ModConColor_GC" value="-16744343" />
+    <int name="ModOnlineColor" value="-13914325" />
+</map>
